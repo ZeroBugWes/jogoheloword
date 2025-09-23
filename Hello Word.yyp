@@ -36,7 +36,8 @@
   "resources":[
     {"id":{"name":"objColetavel","path":"objects/objColetavel/objColetavel.yy",},},
     {"id":{"name":"ObjePlayer","path":"objects/ObjePlayer/ObjePlayer.yy",},},
-    {"id":{"name":"Objinimigos","path":"objects/Objinimigos/Objinimigos.yy",},},
+    {"id":{"name":"objInimigo","path":"objects/objInimigo/objInimigo.yy",},},
+    {"id":{"name":"objInimigoAndando","path":"objects/objInimigoAndando/objInimigoAndando.yy",},},
     {"id":{"name":"Objpontos","path":"objects/Objpontos/Objpontos.yy",},},
     {"id":{"name":"rmFase1","path":"rooms/rmFase1/rmFase1.yy",},},
     {"id":{"name":"rmFase2","path":"rooms/rmFase2/rmFase2.yy",},},

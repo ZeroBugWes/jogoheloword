@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Objinimigos",
+  "%Name":"objInimigo",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Objinimigos",
+  "name":"objInimigo",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
